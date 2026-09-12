@@ -1,0 +1,9 @@
+Administrator
+Username: admin
+Password: Admin@123
+Toll Operator 1
+Username: operator1
+Password: Operator@123
+Toll Operator 2
+Username: operator2
+Password: Operator@123

@@ -110,7 +110,7 @@ Payment Method Management
 Transaction Reports
 Database Integration
 
-🎓 Academic Project
+# 🎓 Academic Project
 This project was developed as a university course project for demonstrating:
 C# Windows Forms Development
 SQL Server Database Integration
@@ -119,7 +119,7 @@ Role-Based Access Control
 Database Relationships
 Management System Development
 
-👨‍💻 Developer
+# 👨‍💻 Developer
 Tashin Islam
 CSE Student
 American International University-Bangladesh (AIUB)

@@ -125,30 +125,32 @@ CSE Student
 American International University-Bangladesh (AIUB)
 
 Screenshots of Projects:
-![login](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/login.png)
+# Login
+![Login](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/login.png)
 
-![add_new_user](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/add_new_user.png)
+# Add New User
+![Add New User](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/add_new_user.png)
 
+# Admin Dashboard
+![Admin Dashboard](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_dashboard.png)
 
-![admin_dashboard](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_dashboard.png)
+# New Toll Transaction
+![New Toll Transaction](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/new_toll_transaction.png)
 
+# Operator Dashboard
+![Operator Dashboard](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/operator%20dashboard.png)
 
-![new_toll_transaction](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/new_toll_transaction.png)
+# Transaction History
+![Transaction History](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/transaction_history.png)
 
+# Update User Form
+![Update User Form](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/update_user_form.png)
 
-![operator%20dashboard](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/operator%20dashboard.png)
+# User Management
+![User Management](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/user_management.png)
 
-
-![transaction_history](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/transaction_history.png)
-
-
-![update_user_form](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/update_user_form.png)
-
-
-![user_management](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/user_management.png)
-
-![admin_transaction_management](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_transaction_management.png)
-
+# Admin Transaction Management
+![Admin Transaction Management](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_transaction_management.png)
 
 
 

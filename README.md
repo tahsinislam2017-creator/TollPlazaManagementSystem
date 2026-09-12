@@ -125,32 +125,9 @@ CSE Student
 American International University-Bangladesh (AIUB)
 
 Screenshots of Projects:
-# Login
-![Login](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/login.png)
 
-# Add New User
-![Add New User](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/add_new_user.png)
+<img width="790" height="546" alt="image" src="https://github.com/user-attachments/assets/16f5900f-f323-432d-9b2c-128dee4965d3" />
 
-# Admin Dashboard
-![Admin Dashboard](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_dashboard.png)
-
-# New Toll Transaction
-![New Toll Transaction](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/new_toll_transaction.png)
-
-# Operator Dashboard
-![Operator Dashboard](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/operator%20dashboard.png)
-
-# Transaction History
-![Transaction History](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/transaction_history.png)
-
-# Update User Form
-![Update User Form](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/update_user_form.png)
-
-# User Management
-![User Management](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/user_management.png)
-
-# Admin Transaction Management
-![Admin Transaction Management](https://raw.githubusercontent.com/tahsinislam2017-creator/TollPlazaManagementSystem/01a2d6681a5d0b47838415f09976d64b4419dc6b/admin_transaction_management.png)
 
 
 

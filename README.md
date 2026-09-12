@@ -126,7 +126,7 @@ American International University-Bangladesh (AIUB)
 
 Screenshots of Projects:
 
-<img width="790" height="515" alt="Image" src="https://github.com/user-attachments/assets/fc1a71d3-1c50-4714-8f71-c615e6c4f2b8" />
+<img width="790" height="515" alt="Image" src="https://github.com/user-attachments/assets/0013b9d6-29d9-4bf7-9277-5d4ba022e7af" />
 
 
 

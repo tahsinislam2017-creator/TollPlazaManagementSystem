@@ -95,8 +95,8 @@ DatabaseHelper.cs
 From the uploaded files OPEN;
 TollPlazaManagementSystem.slnx
 Build & Run this Project
-d run the project.
-🚀 Features
+
+## 🚀 Features
 Role-Based Login System
 Admin Dashboard
 Operator Dashboard

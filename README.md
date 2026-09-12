@@ -126,27 +126,7 @@ American International University-Bangladesh (AIUB)
 
 Screenshots of Projects:
 
-<img width="522" height="472" alt="add_new_user" src="https://github.com/user-attachments/assets/87cd305e-cbc7-4dfe-a847-e6b541bd2081" />
 
-<img width="981" height="538" alt="user_management" src="https://github.com/user-attachments/assets/f82049c9-a558-4664-8ee3-461132ba6a79" />
-
-<img width="642" height="467" alt="update_user_form" src="https://github.com/user-attachments/assets/2713858d-2e93-4c4f-a7c7-45b318c68f06" />
-
-<img width="636" height="392" alt="transaction_history" src="https://github.com/user-attachments/assets/ad492a56-87bb-463a-afeb-575e3e53ffed" />
-
-<img width="642" height="458" alt="Toll_setup" src="https://github.com/user-attachments/assets/a0ffc89f-0dbb-4251-9cc0-c12c04663351" />
-
-<img width="790" height="546" alt="Reports" src="https://github.com/user-attachments/assets/8f0a181e-484e-415f-b641-bbec4198eeec" />
-
-<img width="752" height="475" alt="operator dashboard" src="https://github.com/user-attachments/assets/7e479704-ae27-4f48-809b-f06334a4db05" />
-
-<img width="701" height="467" alt="new_toll_transaction" src="https://github.com/user-attachments/assets/7984870c-7a47-4624-a98d-24c551a10c3a" />
-
-<img width="790" height="515" alt="login" src="https://github.com/user-attachments/assets/20a7c1b1-7698-4e21-a3c1-e5f4211f22c1" />
-
-<img width="642" height="397" alt="admin_transaction_management" src="https://github.com/user-attachments/assets/b3cfc895-9b67-4e71-9f80-33b566558a71" />
-
-<img width="788" height="506" alt="admin_dashboard" src="https://github.com/user-attachments/assets/a2884c3a-ecb9-47b1-82a4-bbc0dec8e682" />
 
 
 

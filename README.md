@@ -126,7 +126,7 @@ American International University-Bangladesh (AIUB)
 
 Screenshots of Projects:
 
-![image alt](https://github.com/tahsinislam2017-creator/TollPlazaManagementSystem/blob/a54033cd5acc7fd178f53f8a7be3b5d9607fe6ad/Toll_setup.png)
+<img width="790" height="515" alt="Image" src="https://github.com/user-attachments/assets/fc1a71d3-1c50-4714-8f71-c615e6c4f2b8" />
 
 
 

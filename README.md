@@ -1,8 +1,8 @@
-# 🚗 Toll Plaza Management System
+ 🚗 Toll Plaza Management System
 
 A Windows Forms based Toll Plaza Management System developed using C# and Microsoft SQL Server.
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 The Toll Plaza Management System is designed to digitally manage toll plaza operations. The system provides role-based access for administrators and operators.
 
@@ -12,7 +12,7 @@ Operators can process and manage toll transactions.
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - C#
 - .NET Windows Forms
@@ -23,9 +23,9 @@ Operators can process and manage toll transactions.
 
 ---
 
-# 👥 User Roles
+ 👥 User Roles
 
-## 👨‍💼 Administrator
+ 👨‍💼 Administrator
 
 The Administrator can:
 
@@ -37,9 +37,9 @@ The Administrator can:
 - View Toll Transactions
 - View Reports
 
----
 
-## 👨‍🔧 Operator
+
+👨‍🔧 Operator
 
 The Operator can:
 
@@ -54,7 +54,7 @@ The Operator can:
 
 ---
 
-# 📊 Database Tables
+ 📊 Database Tables
 
 The database contains the following main tables:
 
@@ -69,7 +69,7 @@ The database contains the following main tables:
 
 ---
 
-# 🔗 Database Relationships
+ 🔗 Database Relationships
 
 - One Toll Plaza can have multiple Toll Booths.
 - One Toll Plaza can have multiple Toll Rates.
@@ -81,22 +81,21 @@ The database contains the following main tables:
 
 ---
 
-# 🗄️ Database Setup
+ 🗄️ Database Setup
 
 1. Open Microsoft SQL Server Management Studio.
 2. Create or connect to your SQL Server.
 3. Restore the database backup file:
 
-```text
 Database/TollPlazaDB.bak
-#  Update the SQL Server connection string in:
+  Update the SQL Server connection string in:
 DatabaseHelper.cs
-## MOST IMPORTANT HOW TO OPEN THIS [[PROJECT]] ##
+MOST IMPORTANT HOW TO OPEN THIS [[PROJECT]] ##
 From the uploaded files OPEN;
 TollPlazaManagementSystem.slnx
 Build & Run this Project
 
-## 🚀 Features
+ 🚀 Features
 Role-Based Login System
 Admin Dashboard
 Operator Dashboard
@@ -110,7 +109,7 @@ Payment Method Management
 Transaction Reports
 Database Integration
 
-# 🎓 Academic Project
+ 🎓 Academic Project
 This project was developed as a university course project for demonstrating:
 C# Windows Forms Development
 SQL Server Database Integration
@@ -119,7 +118,7 @@ Role-Based Access Control
 Database Relationships
 Management System Development
 
-# 👨‍💻 Developer
+ 👨‍💻 Developer
 Tashin Islam
 CSE Student
 American International University-Bangladesh (AIUB)
@@ -128,7 +127,7 @@ Screenshots of Projects:
 
 <img width="987" height="537" alt="image" src="https://github.com/user-attachments/assets/4d3c5c6d-3bd5-413d-886e-0f8458bdc192" />
 
-## here is the google drive links of project demonastration:
+** here is the google drive links of project demonastration:
 https://drive.google.com/file/d/1FTo9sKggoiEOkBj2r5RvZlpjl5CfTUqk/view?usp=drive_link
 
 

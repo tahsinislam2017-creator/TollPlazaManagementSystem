@@ -127,6 +127,24 @@ Screenshots of Projects:
 
 <img width="987" height="537" alt="image" src="https://github.com/user-attachments/assets/4d3c5c6d-3bd5-413d-886e-0f8458bdc192" />
 
+<img width="701" height="467" alt="Image" src="https://github.com/user-attachments/assets/f20abc8b-c44a-43c2-a674-8b8cdb47bcff" />
+
+<img width="642" height="467" alt="Image" src="https://github.com/user-attachments/assets/c86d2ea7-275f-497d-8797-6755d7c98745" />
+
+<img width="522" height="472" alt="Image" src="https://github.com/user-attachments/assets/7d3383c8-0eeb-4948-8707-6ffd9a586b03" />
+
+<img width="788" height="506" alt="Image" src="https://github.com/user-attachments/assets/83cef955-c030-4510-bf04-dc20526a8491" />
+
+<img width="642" height="397" alt="Image" src="https://github.com/user-attachments/assets/35c90f56-232d-4713-9f75-98a5f15db278" />
+
+<img width="790" height="515" alt="Image" src="https://github.com/user-attachments/assets/3cd779cd-46e6-4576-8830-5313c5995173" />
+
+<img width="752" height="475" alt="Image" src="https://github.com/user-attachments/assets/5eb282f8-3a59-46ff-b167-ab0c7959bdf4" />
+
+<img width="790" height="546" alt="Image" src="https://github.com/user-attachments/assets/f051ce80-ef95-4673-9649-d907d5231456" />
+
+<img width="642" height="458" alt="Image" src="https://github.com/user-attachments/assets/45e500be-9008-43a4-b553-14dd9283df3a" />
+
 ** here is the google drive links of project demonastration:
 https://drive.google.com/file/d/1FTo9sKggoiEOkBj2r5RvZlpjl5CfTUqk/view?usp=drive_link
 

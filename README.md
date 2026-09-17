@@ -16,9 +16,9 @@ Operators can process and manage toll transactions.
 
 - C#
 - .NET Windows Forms
-- Microsoft Visual Studio
-- Microsoft SQL Server 2022
-- SQL Server Management Studio (SSMS)
+- Microsoft Visual Studio(there is already uploaded .exe file to install exactly vs )
+- Microsoft SQL Server 2022(already uploaded .exe file to install exactly sql server)
+- SQL Server Management Studio (SSMS) (uploaded .exe file to install exactly ssms)
 - Microsoft.Data.SqlClient
 
 ---
